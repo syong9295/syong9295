@@ -6,7 +6,7 @@
 
 My name is Sheng Yong and I'm a full-stack developer by day and indie app creator at night.
 
-## 🔧 Technologies
+## 🔧 Top Skills
 ![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -14,7 +14,7 @@ My name is Sheng Yong and I'm a full-stack developer by day and indie app creato
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## &#x270d; Blog & Writing
+## &#x270d; Blog
 
 Besides coding, I also write technical posts on [Medium](https://medium.com/@syong9295).
 
