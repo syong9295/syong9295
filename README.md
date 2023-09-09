@@ -4,7 +4,7 @@
 
 # Hi there! <img src="https://github.com/syong9295/syong9295/blob/90e3a381e45ac0aa1bb0a4c43d0c85dc3f02464c/wave.gif" width="30px" height="30px" />
 
-My name is Sheng Yong and I'm a full-stack developer by day and indie app creator at night.
+My name is Sheng Yong, I'm a full-stack developer by day and indie app creator at night.
 
 ## 🔧 Top Skills
 ![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
